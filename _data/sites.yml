@@ -356,15 +356,6 @@
               - icon: ri-exchange-line
                 title: 镜像站点集合
                 url: https://github.com/LiLittleCat/awesome-free-chatgpt
-        - title: Bard
-          url: https://bard.google.com/
-          description: 谷歌的大语言模型
-          logo: bard.google.com.svg
-          icons:
-            status:
-              - icon: ri-send-plane-fill
-                title: 国际互联网
-            info:
         - title: Claude
           url: https://claude.ai/
           description: 由 Anthropic 开发的大型语言模型
@@ -374,6 +365,11 @@
               - icon: ri-send-plane-fill
                 title: 国际互联网
             info:
+              - icon: ri-exchange-line
+                title: Gemini
+                url: https://gemini.google.com/
+                description: 谷歌的大语言模型
+                logo: gemini.google.com.svg
         - title: Dify
           url: https://dify.ai/
           description: 提示词编排，打造你的个性化 AI 助理
