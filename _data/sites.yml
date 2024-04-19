@@ -3119,10 +3119,6 @@
           url: https://www.openstreetmap.org/
           description: 唯一真正不受限制，可以自由使用的全球地图服务
           logo: openstreetmap.org.svg
-        - title: 科塔学术
-          url: https://site.sciping.com/
-          description: 学术导航
-          logo: site.sciping.com.svg
         - title: Symbolab
           url: https://zs.symbolab.com/
           description: 分步求解的万能数学计算器
