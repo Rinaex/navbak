@@ -677,7 +677,7 @@
     - name: PPT 模板
       links:
         - title: ρρt超级市场
-          url: https://ppt.sotary.com/
+          url: https://www.pptsupermarket.com/
           description: 免费、优质、高效、安全的 PPT 模板下载网站
           logo: ppt.sotary.com.svg
         - title: 稻壳儿
@@ -696,10 +696,6 @@
           url: https://sc.chinaz.com/ppt/
           description: PPT 模板免费下载
           logo: sc.chinaz.com.svg
-        - title: 叮当设计
-          url: https://www.dingdangsheji.com/
-          description: 完全免费的优秀素材下载网站
-          logo: dingdangsheji.com.svg
         - title: 吾道
           url: https://www.woodo.cn/
           description: 专业演示文档制作工具，PPT模板，协同办公
@@ -1203,17 +1199,13 @@
           url: https://www.xbext.com/
           description: 无新闻，无推送，无后台，小而强大，给你淋漓尽致的浏览体验。支持油猴。
           logo: xbext.com.png
-
         - title: TVBox
-          url: https://vinswu.github.io/tvbox/
+          url: https://github.com/o0HalfLife0o/TVBoxOSC/releases
           description: 智能电视
           logo: vinsuw.github.io-tvbox.svg
           icons:
             status:
             info:
-              - icon: ri-sparkling-2-line
-                title: 下载地址
-                url: https://github.com/o0HalfLife0o/TVBoxOSC/releases
         - title: Magisk
           url: https://github.com/topjohnwu/Magisk
           description: 获取 Android Root 权限
