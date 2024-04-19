@@ -3135,6 +3135,13 @@
           url: https://www.zhujiceping.com/
           description: VPS，服务器，主机测评
           logo: zhujiceping.com.svg
+        - title: 小米 ROM
+          url: https://xiaomirom.com/
+          description: 由小米发布的任何固件，您可以轻松找到
+          logo: mi.com.svg
+          icons:
+            status:
+            info:
 
 - name: 网络博客
   icon: ri-edit-2-line
