@@ -769,6 +769,13 @@
           url: https://www.huorong.cn/
           description: 如果一定要安装杀软，那就选择火绒吧
           logo: huorong.cn.png
+        - title: WO Mic
+          url: https://wolicheng.com/womic/
+          description: 把手机变成电脑麦克风
+          logo: wolicheng.com-womic.webp
+          icons:
+            status:
+            info:
         - title: everything
           url: https://www.voidtools.com/zh-cn/
           description: Windows 下的高效文件搜索工具
