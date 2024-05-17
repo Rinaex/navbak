@@ -724,6 +724,10 @@
             status:
               - icon: ri-send-plane-fill
                 title: 国际互联网
+            info:
+              - icon: ri-sparkling-2-line
+                title: Windows 离线安装版
+                url: https://www.google.com/intl/zh-CN/chrome/?standalone=1
         - title: uTools
           url: https://u.tools/
           description: 程序员的生产力工具集
