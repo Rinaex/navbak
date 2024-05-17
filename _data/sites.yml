@@ -2650,6 +2650,16 @@
               - icon: ri-github-fill
                 title: Github
                 url: elastic-view.cn.svg
+        - title: Java Decompiler
+          url: https://java-decompiler.github.io/
+          description: Java 反编译工具
+          logo: java-decompiler.github.io.png
+          icons:
+            status:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/java-decompiler/jd-gui
 
     - name: 服务运维
       links:
