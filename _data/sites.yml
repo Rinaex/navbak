@@ -1342,6 +1342,16 @@
                 title: English
                 url: https://icons8.com/icons
 
+    - name: 设计工具
+      links:
+        - title: Figma
+          url: https://www.figma.com/
+          description: 协同界面设计工具
+          logo: figma.com.svg
+          icons:
+            status:
+            info:
+
     - name: 图片素材
       links:
         - title: Pixabay
