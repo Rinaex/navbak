@@ -1,4 +1,4 @@
-- name: 置顶
+- name: 置顶链接
   icon: ri-star-line
   links:
     - title: 完整导航
@@ -88,7 +88,7 @@
           description: "打不开可以看置顶的HOSTS修改教程"
           logo: lzacg.jpeg
 
-- name: 工具
+- name: 游戏工具
   icon: ri-tools-fill
   links:
     - title: 月幕Galgame
@@ -111,3 +111,19 @@
       url: https://moe-gameaward.com/prize/
       description: "萌系游戏大赏"
       logo: moegameward.ico
+      
+- name: 综合网盘
+  icon: ri-cloud-line
+  links: 
+    - title: SunshineBoy
+      url: https://sunshineboy.link/
+      description: "各种各样的ACGN内容"
+      logo: sunshinboy.png
+    - title: ACG Database
+      url: https://acgdb.de/
+      description: "各种各样的ACGN内容"
+      logo: acgdb.png
+    - title: 七米蓝的仓库
+      url: https://al.chirmyram.com/
+      description: "电影动画和书籍"
+      logo: chimyram.ico
