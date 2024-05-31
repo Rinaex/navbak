@@ -4,19 +4,19 @@
     - title: 完整导航
       url: https://raindrop.io/meguru/galgame-43718307
       description: "有更多内容,可能网络问题"
-      logo: raindrop.io.svg
+      logo: raindrop.svg
     - title: 工具站
       url: https://raindrop.io/meguru/-44550412
       description: "有更多内容,可能存在网络问题"
-      logo: raindrop.io.svg
+      logo: raindrop.svg
     - title: 入门指南
       url: https://flowus.cn/share/c37acea7-93b6-49b1-975b-3f34067a00ca?code=JRWCGL
       description: "工具推荐以及常见问题的解决方法"
-      logo: flowus.cn.png
+      logo: flowus.png
     - title: 修改HOSTS教程
       url: https://flowus.cn/share/8276900a-b9f4-46a8-8f95-55903a75e4f4?code=JRWCGL
       description: "某些网站访问不稳定的解决方法"
-      logo: flowus.cn.png
+      logo: flowus.png
 
 - name: 资源下载
   icon: ri-file-download-line
