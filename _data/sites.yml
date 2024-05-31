@@ -28,9 +28,9 @@
           description: "只发自己做的安卓移植"
           logo: t-satoru.webp
         - title: 青桔网
-         url: https://www.qingju.org/
-         description: "移植组,PC资源也发,但都是百度盘"
-         logo: qingju.ico
+          url: https://www.qingju.org/
+          description: "移植组,PC资源也发,但都是百度盘"
+          logo: qingju.ico
         - title: 梓澪の妙妙屋
           url: https://zi0.cc/
           description: "强烈推荐,右上角搜索"
