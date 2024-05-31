@@ -1,7 +1,7 @@
-title: 看见导航
-description: 看见导航 | 美好的事物，值得被更多人看见
-keywords: 导航, 看见导航, 精品网站
-logo: assets/image/favicon.png
+title: 琥珀导航
+description: 发现优秀的ACGN站点
+keywords: 导航, ACGN, Galgame
+logo: assets/image/favicon.ico
 assets:
   image:
     path: ./assets/image/
@@ -9,9 +9,6 @@ web-item:
   logo:
     path: ./assets/image/logo/
 
-analystic:
-  google:
-    gtag: G-WTLLDD0ERC
 
 exclude:
   - README.md
