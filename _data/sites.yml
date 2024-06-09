@@ -2853,6 +2853,13 @@
               - icon: ri-send-plane-fill
                 title: 国际互联网
             info:
+        - title: Bing Webmaster Tools
+          url: https://www.bing.com/webmasters/
+          description: 必应站长工具
+          logo: bing.com.png
+          icons:
+            status:
+            info:
 
     - name: VSCode
       links:
