@@ -2815,6 +2815,18 @@
                 title: 英文
             info:
 
+    - name: 站长工具
+      links:
+        - title: Google PageSpeed Insights
+          url: https://pagespeed.web.dev/
+          description: 检测网页在移动设备和桌面设备上的用户体验，并提供改进建议。
+          logo: pagespeed.web.dev.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
+
     - name: VSCode
       links:
         - title: Dev Containers
