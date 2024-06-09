@@ -2835,6 +2835,15 @@
               - icon: ri-send-plane-fill
                 title: 国际互联网
             info:
+        - title: Google Analytics
+          url: https://analytics.google.com/
+          description: 网站访问量分析
+          logo: analystics.google.com.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
 
     - name: VSCode
       links:
