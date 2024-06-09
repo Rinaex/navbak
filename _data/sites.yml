@@ -2826,6 +2826,15 @@
               - icon: ri-send-plane-fill
                 title: 国际互联网
             info:
+        - title: Google Search Console
+          url: https://search.google.com/search-console
+          description: google 搜索引擎收录
+          logo: search.google.com_search-console.png
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
 
     - name: VSCode
       links:
