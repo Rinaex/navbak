@@ -2860,6 +2860,13 @@
           icons:
             status:
             info:
+        - title: Yandex Webmaster
+          url: https://webmaster.yandex.com/
+          description: Yandex 站长工具
+          logo: webmaster.yandex.com.ico
+          icons:
+            status:
+            info:
 
     - name: VSCode
       links:
