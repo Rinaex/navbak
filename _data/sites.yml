@@ -2844,6 +2844,15 @@
               - icon: ri-send-plane-fill
                 title: 国际互联网
             info:
+        - title: Google AdSense
+          url: https://www.google.com/adsense/
+          description: 谷歌广告
+          logo: google.com_adsense.ico
+          icons:
+            status:
+              - icon: ri-send-plane-fill
+                title: 国际互联网
+            info:
 
     - name: VSCode
       links:
