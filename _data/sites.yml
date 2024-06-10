@@ -13,10 +13,14 @@
       url: https://flowus.cn/share/c37acea7-93b6-49b1-975b-3f34067a00ca?code=JRWCGL
       description: "工具推荐以及常见问题的解决方法"
       logo: flowus.png
-    - title: 修改HOSTS教程
+    - title: 修改hosts教程
       url: https://flowus.cn/share/8276900a-b9f4-46a8-8f95-55903a75e4f4?code=JRWCGL
       description: "某些网站访问不稳定的解决方法"
       logo: flowus.png
+    - title: hosts修改器
+      url: https://erdan.lanzoul.com/i1M7O21hsufe
+      description: "如果你觉得教程麻烦,我为你准备了工具,内置了一些资源站"
+      logo: favicon.ico
 
 - name: 资源下载
   icon: ri-file-download-line
