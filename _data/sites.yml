@@ -2398,6 +2398,16 @@
               - icon: ri-github-fill
                 title: Github
                 url: https://github.com/animate-css/animate.css
+        - title: Loadership
+          url: https://www.loadership.com/
+          description: CSS 加载动效生成器
+          logo: loadership.com.svg
+          icons:
+            status:
+            info:
+              - icon: ri-github-fill
+                title: Github
+                url: https://github.com/ccc159/loadership
         - title: normalize.css
           url: https://necolas.github.io/normalize.css/
           description: 让你的 HTML 默认样式保持跨浏览器的一致性
