@@ -1,29 +1,137 @@
-- name: 置顶链接
+- name: 置顶
   icon: ri-star-line
-  links:
-    - title: 完整导航
-      url: https://raindrop.io/meguru/galgame-43718307
-      description: "有更多内容,可能网络问题"
-      logo: raindrop.svg
-    - title: 工具站
-      url: https://raindrop.io/meguru/-44550412
-      description: "有更多内容,可能存在网络问题"
-      logo: raindrop.svg
-    - title: 入门指南
-      url: https://flowus.cn/share/c37acea7-93b6-49b1-975b-3f34067a00ca?code=JRWCGL
-      description: "工具推荐以及常见问题的解决方法"
-      logo: flowus.png
-    - title: 修改hosts教程
-      url: https://flowus.cn/share/8276900a-b9f4-46a8-8f95-55903a75e4f4?code=JRWCGL
-      description: "某些网站访问不稳定的解决方法"
-      logo: flowus.png
-    - title: hosts修改器
-      url: https://www.123pan.com/s/QyezVv-YpBph.html
-      description: "如果你觉得教程麻烦,我为你准备了工具,内置了一些资源站"
-      logo: logo.ico
+  sub:
+    - name: 必看
+      links:
+        - title: 完整导航
+          url: https://raindrop.io/meguru/galgame-43718307
+          description: "有更多内容,可能网络问题"
+          logo: raindrop.svg
+        - title: 工具站
+          url: https://raindrop.io/meguru/-44550412
+          description: "有更多内容,可能存在网络问题"
+          logo: raindrop.svg
+        - title: 入门指南
+          url: https://flowus.cn/share/c37acea7-93b6-49b1-975b-3f34067a00ca?code=JRWCGL
+          description: "工具推荐以及常见问题的解决方法"
+          logo: flowus.png
+        - title: 修改hosts教程
+          url: https://flowus.cn/share/8276900a-b9f4-46a8-8f95-55903a75e4f4?code=JRWCGL
+          description: "某些网站访问不稳定的解决方法"
+          logo: flowus.png
+        - title: hosts修改器
+          url: https://www.123pan.com/s/QyezVv-YpBph.html
+          description: "如果你觉得教程麻烦,我为你准备了工具,内置了一些资源站"
+          logo: logo.png
+    - name: GalGame工具
+      links:
+        - title: 月幕Galgame
+          url: https://www.ymgal.games/
+          description: "写评,看评,新作情报"
+          logo: ymgal.ico
+        - title: Bangumi
+          url: https://bgm.tv/
+          description: "二次元人有自己的豆瓣,打不开看置顶HOSTS修改教程"
+          logo: bangumi.ico
+        - title: 批评空间
+          url: https://ero.plumz.me/
+          description: "李先生的批评空间反代,需要直连"
+          logo: plum.ico
+        - title: 誠也の部屋
+          url: https://seiya-saiga.com/
+          description: "攻略和全CG档"
+          logo: seiya.ico
+        - title: 萌えゲーアワード
+          url: https://moe-gameaward.com/prize/
+          description: "萌系游戏大赏"
+          logo: moegameward.ico
+    - name: 游戏工具
+      links:
+        - title: Watt Toolkit
+          url: https://steampp.net/
+          description: "steam++"
+          logo: steamapp.png
+        - title: gamestatus
+          url: https://gamestatus.info/zh
+          description: "查询游戏是否被破解"
+          logo: gamestauts.png
+        - title: MTool
+          url: https://afdian.net/a/AdventCirno
+          description: "RPG游戏修改工具,也可以用来汉化游戏"
+          logo: aifadian.png
+        - title: 风灵月影
+          url: https://flingtrainer.com/
+          description: "我乃风灵月影宗精英弟子"
+          logo: filingtrainer.png
+    - name: 动漫工具
+      links:
+        - title: AnimeTrace
+          url: https://ai.animedb.cn/
+          description: "以图搜番,通过截图反查番剧"
+          logo: AnimeTrace.png
+        - title: dialogue
+          url: https://dialogue.moe/search
+          description: "通过字幕反查动画,输入一段番剧中的台词即可查询"
+          logo: dialogue.ico
+        - title: 动画巡礼
+          url: https://anitabi.cn/
+          description: "动漫巡礼地图"
+          logo: anitabi.ico
+        - title: AnimeShot
+          url: https://as2.bitinn.net/
+          description: "一个截番剧表情包分享的站,有搜索功能"
+          logo: logo.png
+        - title: saucenao
+          url: https://saucenao.com/
+          description: "图片搜索,内置多个插画网站,找原图找画师用"
+          logo: saucenao.ico
+        - title: HPOI
+          url: https://www.hpoi.net/
+          description: "手办玩偶耻物娃娃相关,同时提供二手市场"
+          logo: hpoi.png
 
-- name: 资源下载
-  icon: ri-file-download-line
+- name: 社区
+  icon: ri-chat-1-line
+  links:
+  - title: SS同盟
+    url: https://sstm.moe/
+    description: "✈综合型社区,自有汉化组,活跃度高,新人需要做任务"
+    logo: sstm.png
+  - title: 绅士仓库
+    url: https://cangku.moe/
+    description: "老牌资源分享型社区"
+    logo: cangku.ico
+  - title: 喵普拉斯
+    url: https://www.neko-plus.net/
+    description: "游戏内容为主的综合社区"
+    logo: nyaplus.png
+  - title: 南+
+    url: https://blue-plus.net/index.php
+    description: "大火都挺变态的"
+    logo: sp.ico
+  - title: 幻想次元
+    url: https://guaiguaizhanhao.com/
+    description: "会员制餐厅,登陆后可以看到更多内容"
+    logo: hxcy.ico
+  - title: ZodGame
+    url: https://zodgame.xyz/
+    description: "✈主要内容为illusion整合包和人物卡"
+    logo: zod.ico
+  - title: 光影
+    url: https://i-0v0.in/
+    description: "主要是3D资源,同人动画"
+    logo: 0v0.ico
+  - title: 绅士の庭
+    url: https://gmgard.moe/
+    description: "综合资源社区"
+    logo: gmgard.ico
+  - title: 喵玉殿
+    url: https://bbs.nyasama.com/
+    description: "东方Project社区"
+    logo: th.png
+
+- name: GalGame
+  icon: ri-book-marked-line
   sub:
     - name: 免登录
       links:
@@ -43,10 +151,6 @@
           url: https://www.sayafx.top/
           description: "主要下载方式为直链,部分资源提供pikpak/度盘/123盘"
           logo: sayafx.ico
-        - title: 迷迭香
-          url: https://rosmontis.com/galgame
-          description: "提供Onedrive和UC盘载点"
-          logo: rosmontis.jpg
         - title: 失落小站
           url: https://www.shinnku.com/
           description: "我不允许任何人不爱真红"
@@ -92,30 +196,190 @@
           description: "打不开可以看置顶的HOSTS修改教程"
           logo: lzacg.jpeg
 
-- name: 游戏工具
-  icon: ri-tools-fill
+- name: 动漫资源
+  icon: ri-mark-pen-line
+  sub:
+    - name: 在线动漫
+      links:
+        - title: Yuc's Anime List
+          url: https://yuc.wiki/
+          description: "bilibili@长门有C 制作的新番时间表"
+          logo: yuc.png
+        - title: 魔法仓库
+          url: https://acgap.net/
+          description: "All IN ONE 站点,站长浑身都是肝,访问速度可能比较慢,看涩涩需要会员"
+          logo: acgap.ico
+        - title: AGE动漫
+          url: http://www.age.tv/
+          description: "没有影响观感的广告"
+          logo: age.jpg
+        - title: 稀饭动漫
+          url: https://dick.xfani.com/
+          description: "没有影响观感的广告"
+          logo: xfan.png
+        - title: 樱之空动漫
+          url: https://www.skrcc.cc/
+          description: "没有影响观感的广告"
+          logo: skrcc.png
+        - title: 橘子动漫
+          url: https://www.mgnacg.com/
+          description: "偶尔需要手动关闭谷歌的悬浮广告"
+          logo: mgnacg.png
+        - title: 路漫漫动漫
+          url: https://lm.qg50.com/
+          description: "暂时没发现站内广告"
+          logo: lmm.ico
+        - title: 番薯动漫
+          url: https://fsdm.top/
+          description: "没有影响观感的广告"
+          logo: fsdm.png
+        - title: Animoe动漫
+          url: https://animoe.org/
+          description: "暂时没发现站内广告"
+          logo: animoe.png
+        - title: E站
+          url: https://www.ezdmw.site/
+          description: "没有广告,UI类似nicovideo"
+          logo: ezd.ico
+        - title: C站
+          url: https://www.clicli.cc/
+          description: "广告很少 忽略不计"
+          logo: clicli.png
+        - title: 打驴动漫
+          url: https://www.dqsj.top/
+          description: "暂时没发现站内广告"
+          logo: dqsj.png
+    - name: 动漫下载
+      links:
+        - title: nyaa
+          url: https://nyaa.si/
+          description: "✈严格来说是个种子站"
+          logo: nyaa.png
+        - title: 蜜柑计划
+          url: https://mikanime.tv/
+          description: "好"
+          logo: mikan.ico
+        - title: 萌番组
+          url: https://bangumi.moe/
+          description: "✈" 
+          logo: 
+        - title: miobt
+          url: https://www.miobt.com/
+          description: "✈"
+          logo: logo.png
+        - title: ACG.RIP
+          url: https://acg.rip/
+          description: "✈"
+          logo: acgrip.ico
+        - title: 爱恋动漫
+          url: https://www.kisssub.org/
+          description: 
+          logo: kisssub.ico
+        - title: 动漫猫
+          url: https://www.comicat.org/
+          description: 
+          logo: comicat.ico
+
+- name: 游戏
+  icon: ri-gamepad-line
   links:
-    - title: 月幕Galgame
-      url: https://www.ymgal.games/
-      description: "写评,看评,新作情报"
-      logo: ymgal.ico
-    - title: Bangumi
-      url: https://bgm.tv/
-      description: "二次元人有自己的豆瓣,打不开看置顶HOSTS修改教程"
-      logo: bangumi.ico
-    - title: 批评空间
-      url: https://ero.plumz.me/
-      description: "李先生的批评空间反代,需要直连"
-      logo: plum.ico
-    - title: 誠也の部屋
-      url: https://seiya-saiga.com/
-      description: "攻略和全CG档"
-      logo: seiya.ico
-    - title: 萌えゲーアワード
-      url: https://moe-gameaward.com/prize/
-      description: "萌系游戏大赏"
-      logo: moegameward.ico
-      
+  - title: flysheep
+    url: https://www.flysheep6.com/
+    description: ""
+    logo: flysheep.jpg
+  - title: switch618
+    url: https://www.switch618.com/
+    description: ""
+    logo: switch618.png
+  - title: gamer520
+    url: https://www.gamer520.com/
+    description: ""
+    logo: gamer520.jpg
+  - title: 游戏天堂
+    url: https://www.zzzzz688.com/
+    description: ""
+    logo: zz668.png
+  - title: ROMFUN
+    url: https://romsfun.com/
+    description: "各种平台的游戏ROM下载"
+    logo: rom.png
+  - title: 序言游戏社区
+    url: https://ysktgp.xyz/
+    description: "手游破解社区,部分游戏需要会员"
+    logo: logo.png
+  - title: platinmods
+    url: https://platinmods.com/
+    description: "手游破解社区,部分游戏需要会员"
+    logo: pm.png
+  - title: androidrepublic
+    url: https://androidrepublic.org/forums/
+    description: "手游破解社区,部分游戏需要会员"
+    logo: ar.ico
+  - title: blackmod
+    url: https://blackmod.net/forum/
+    description: "手游破解社区,免费mod有广告"
+    logo: bmt.png
+  - title: 词影
+    url: https://cy.surprising.studio/
+    description: "看笔画猜成语,爱玩"
+    logo: cy.png
+  - title: steamdb
+    url: https://steamdb.info/
+    description: "steam数据库,主要用来查询历史价格"
+    logo: steamdb.ico
+  - title: steampy
+    url: https://steampy.com/
+    description: "跳蚤市场"
+    logo: steampy.ico
+
+- name: 轻小说
+  icon: ri-book-read-line
+  links:
+    - title: 轻小说翻译机器人
+      url: https://books.fishhawk.top/
+      description: "基于ai制作的翻译工具"
+      logo: fishhwak.svg
+    - title: 轻书架
+      url: https://www.lightnovel.app/home
+      description: ""
+      logo: lightnovel.png
+    - title: 真白萌
+      url: https://masiro.me/admin/
+      description: ""
+      logo: masiro.ico
+    - title: esjzone
+      url: https://www.esjzone.me/
+      description: ""
+      logo: esj.png
+    - title: 轻小说文库
+      url: https://www.wenku8.net/
+      description: ""
+      logo: wenku8.ico
+    - title: 百合会
+      url: https://www.yamibo.com/site/novel
+      description: "顾名思义 百合就是百合"
+      logo: yamibo.ico
+    - title: 轻之文库
+      url: https://www.linovel.net/
+      description: ""
+      logo: linovel.ico
+    - title: sf轻小说
+      url: https://book.sfacg.com/
+      description: ""
+      logo: sfacg.ico
+    - title: 鲸云轻小说
+      url: https://book.jyacg.com/
+      description: ""
+      logo: jyacg.ico
+    - title: 哔哩轻小说
+      url: https://www.linovelib.com/
+      description: ""
+      logo: bilinovel.ico
+    - title: 魔笔小说
+      url: https://mobinovels.com/
+      description: "轻小说下载站"
+      logo: mobi.png
+
 - name: 综合网盘
   icon: ri-cloud-line
   links: 
