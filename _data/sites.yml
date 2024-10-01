@@ -3363,10 +3363,6 @@
   sub:
     - name: 博客工具
       links:
-        - title: Feeds Pub
-          url: https://feeds.pub/
-          description: 一个 RSS 聚合器，可以订阅自己喜欢的网站
-          logo: feeds.pub.svg
         - title: BlogHub
           url: https://bloghub.fun/
           description: 个人博客聚合网站
