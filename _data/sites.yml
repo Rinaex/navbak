@@ -347,6 +347,10 @@
               - icon: ri-book-2-line
                 title: Document
                 url: https://huggingface.co/docs
+        - title: Papers With Code
+          url: https://paperswithcode.com/
+          description: 最新的机器学习论文，包含代码
+          logo: paperswithcode.com.svg
         - title: Learning Prompt
           url: https://learningprompt.wiki/
           description: ChatGPT 和 Midjourney 教程
