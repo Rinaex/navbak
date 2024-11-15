@@ -1986,6 +1986,10 @@
               - icon: ri-github-fill
                 title: Github
                 url: https://github.com/fenixsoft/awesome-fenix
+        - title: DB-Engines
+          url: https://db-engines.com/
+          description: 数据库排名
+          logo: db-engines.com.ico
 
     - name: 云端资源
       links:
